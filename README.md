@@ -15,7 +15,7 @@ Key requirements:
 - Needs to be documented if employees did not log Overtime
 
 ## UI
-- Bootstrap -> formatting
+-  X Bootstrap -> formatting
 
 
 ##Refactor TODOS:
