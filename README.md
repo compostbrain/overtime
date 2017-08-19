@@ -15,9 +15,9 @@ Key requirements:
 - Needs to be documented if employees did not log Overtime
 
 ## UI
--  X Bootstrap -> formatting
+- X Bootstrap -> formatting
 - Icons from Font Awesome
-- Update the form styles
+- X Update the form styles
 
 
 ##Refactor TODOS:
