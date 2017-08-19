@@ -23,3 +23,4 @@ Key requirements:
 
 ##Refactor TODOS:
 - Refactor user associations integration test in post_spec
+- refactor status form
