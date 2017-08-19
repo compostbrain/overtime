@@ -16,6 +16,8 @@ Key requirements:
 
 ## UI
 -  X Bootstrap -> formatting
+- Icons from Font Awesome
+- Update the form styles
 
 
 ##Refactor TODOS:
