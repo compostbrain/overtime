@@ -13,7 +13,7 @@ Key requirements:
 - Administrate admin dashboard
 - Email summary to managers for Approval
 - Needs to be documented if employees did not log Overtime
-- Block non-admin and guest users
+- X Block non-admin and guest users
 
 ## UI
 - X Bootstrap -> formatting
