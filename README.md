@@ -24,3 +24,4 @@ Key requirements:
 ##Refactor TODOS:
 - Refactor user associations integration test in post_spec
 - refactor status form
+- fix post_spec.rb:82 to include factory
