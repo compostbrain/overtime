@@ -25,3 +25,4 @@ Key requirements:
 - Refactor user associations integration test in post_spec
 - refactor status form
 - fix post_spec.rb:82 to include factory
+- fix post_spec
