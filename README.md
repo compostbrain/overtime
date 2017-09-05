@@ -15,18 +15,7 @@ Key requirements:
 - Needs to be documented if employees did not log Overtime
 - X Block non-admin and guest users
 
-## UI
-- X Bootstrap -> formatting
-- Icons from Font Awesome
-- X Update the form styles
 
 
 ##Refactor TODOS:
-- Refactor user associations integration test in post_spec
-- refactor status form
-- fix post_spec.rb:82 to include factory
-- fix post_spec
-- integrate vaildation for phone attr in User:
-  # no spaces or dahses
-  # all characters have to be a number
-  # exactly 10 chars
+-
