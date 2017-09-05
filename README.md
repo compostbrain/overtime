@@ -26,3 +26,7 @@ Key requirements:
 - refactor status form
 - fix post_spec.rb:82 to include factory
 - fix post_spec
+- integrate vaildation for phone attr in User:
+  # no spaces or dahses
+  # all characters have to be a number
+  # exactly 10 chars
