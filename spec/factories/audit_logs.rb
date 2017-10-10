@@ -6,5 +6,3 @@ FactoryGirl.define do
     end_date nil
   end
 end
-
-AuditLog()
