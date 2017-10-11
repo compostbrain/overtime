@@ -32,6 +32,7 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'devise', '~> 4.3'
 gem 'bootstrap-sass'
 gem 'gritter', '~> 1.2'
+gem 'kaminari', '~> 1.0', '>= 1.0.1'
 gem "administrate"
 gem 'bourbon'
 gem 'pundit', '~> 1.1'
